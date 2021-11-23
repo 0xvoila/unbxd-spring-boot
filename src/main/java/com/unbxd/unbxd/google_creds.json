@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "kubernetes-amit-test",
+  "private_key_id": "648435dca705f388282f2c910382b9cc1ffb5944",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDhWvX5J9Bi2+7Q\nN7wVC8seNeaC2WAW6eVY99tCaeRx+3ij/VdMiNkeU86PEm2PEey47GtrHGBShGUY\nvY6X/pk8b/PW/L8khE6PfOZxbziR3jrDy1613Ii1BGc3ojYYNB26hxhb4dV6hhls\nWYU50lQ9l6IwUei+fdNODqr39ItDS6ONr5h5mpH2Ly07MgWTUFqV5ccqptq+jfCj\nE6PEPGcmZJ6R9jEuhfNjRg73oj50DAXSmbpXsXcZhm8oieCR6gMotQvtcK6njBT8\nnf9LGrFBHq1xVtWLzIBQWoyGQYBkfI0SncMm0oq8e0HLyYK5zBW7feVSuuywjtZC\n9cLKMsi/AgMBAAECggEAXmQltDNffxEFAhTeRGh4rxI/l54qN97HcFD891/4Tl/Z\nA8NZHhcR7jiHQ/khh7Qn1bs9MROlKtsGp2q6f+Kl16FC3tFl1ItQhpx3v5qo9LxD\nHACijoUtg7iw7SYWB2RI8XillNLOgrAJlQ8YFQSKwXOyfQ/J74QvjjnplctJy6jo\n6ZcH26Acw+MW47cXd8nY4a+aEqXnksJHdO+wOJEOYxxurdkVcsbCM1nf6zlW43wI\n7dToNoGWdCcvD2IWEg1+1bLHqaaIlo86xuJxugwDCIYT09H54fstyXIXk+WDEnto\ncS0MmHyzCJHxxmNFBvBF2HfdnLtWAb5lmdxFLOvwsQKBgQD/APJrlE9GCT+o0Ce3\nz4Jlu4LsiNS6kZC0784fVxEuV03hYBcezFBWDhAvhjDx6juJ+UN0N4d5Vy5MmYu8\noqeuQQF9h+zdjeyYKSB/h9lBXtf8luUFncVQfXWPpvuPGMovnkJ9Z5dyChz6thQl\nw9gAPsLwD8R9KiW/JdKlt4kekQKBgQDiPFwZH5TFgvxVReGnvMUWAZoDoYlc9dUp\nnYp4qzYYqAsF5ZCJLF1TCrlVIU/uEG3yhtPs/CwzrKo876nVufwCzFoo4C0k/93b\nHnfdfhaIWGfvLwqcNEeCcfxagjzHucP93j9OZ94xH5V12Kf7NapAwv+yxsec49jt\new8srF26TwKBgDjr2DElYPCsPdaL6GHCY0QcMCRmgr3GonuRD/y07bPfbxYA4ghQ\n6Rncd8Zz+Nb3RyUMS/9UKdxvFnmoyKVp1W4zOobv4XKvLIHmpEdzZo6OAj5y3Fp9\nlj7aUnSnfH27td4dQJBHoGmnUkKwhBzN85hSaic2DdE2qEhbxAKTznrRAoGBANlE\ndIJgNQUWTXUrXpIzlOcUdK/GA+B16thDhwdqDdLSF3v7QrqqE5o7s09RZazQtHZ1\nC7QNXfnmebt5wxYRvjeFv5R/7nsZCxxzf1QE0mjw1if7emoXPxHEnEDj0LFS8yms\ntgl7cQSmO2howLJdkHsPindLtcoze1Jem20gwAa7AoGBALgx4hV6+d1ygjXCbrZg\nXI3rC/C4GGMitC6iKLmrH5CT5x3itiNj3ESF7Hpu5sQMzOWIp9KNtGSsRjk9YWE3\nTdWytON9+wDMqrp9lxHWpse8yreNMxIq6kHafp5sQ8LvPhgtPqpgOgRn/k1ssgrV\nVxsZwA3QN1w+nSFH/XIQHl3K\n-----END PRIVATE KEY-----\n",
+  "client_email": "spring-boot@kubernetes-amit-test.iam.gserviceaccount.com",
+  "client_id": "118322597062019738898",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/spring-boot%40kubernetes-amit-test.iam.gserviceaccount.com"
+}
